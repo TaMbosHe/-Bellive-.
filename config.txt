@@ -1,6 +1,6 @@
 owner=444918581659172864
 prefix=B
-game=Break | Bplay
+game=Bplay
 stayinchannel=true
 songinstatus=false
 token=NTM3OTgyOTMyNjY5ODI1MDQ0.DytLSQ.VYNnrAFoYAPHplNOtxNt9zdnTc4
